@@ -14,7 +14,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     'bower-install': {
       target: {
-        html: 'index.html' // point to your HTML file.
+        html: 'app/index.html' // point to your HTML file.
       }
     },
     yeoman: {
